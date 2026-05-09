@@ -50,10 +50,10 @@ ping worker2
 ```
 2. Instalación automática
 
-3.installar java
+3.clonar repo
 ```bash
-sudo apt update
-sudo apt install openjdk-8-jdk -y
+git clone https://github.com/RicardoHurtadoF/Servidor-Apache-Hadoop.git
+cd Servidor-Apache-Hadoop
 ```
 
 En cada máquina:
