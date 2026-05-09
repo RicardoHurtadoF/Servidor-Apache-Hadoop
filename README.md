@@ -50,6 +50,12 @@ ping worker2
 ```
 2. Instalación automática
 
+3.installar java
+```bash
+sudo apt update
+sudo apt install openjdk-8-jdk -y
+```
+
 En cada máquina:
 ```bash
 chmod +x setup_hadoop.sh
